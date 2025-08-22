@@ -1,0 +1,13 @@
+nav ul li a {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+ul li {
+  padding: 20px;
+}
+
+#logo {
+  width: 250px;
+  height: auto;
+}
